@@ -25,3 +25,11 @@ The model was made using [Scikit-Learn](https://scikit-learn.org/) an excellent 
 * A ROC Curve
 * Visual Confusion Matrix
 * A custom Classification Report
+
+## How to clone this project
+
+Type these commands in your terminal:
+
+```bash
+  git clone https://github.com/Siwan-SR/diabetes-detection.git
+```
