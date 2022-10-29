@@ -31,6 +31,5 @@ The model was made using [Scikit-Learn](https://scikit-learn.org/) an excellent 
 Type this command in your terminal:
 
 ```bash
-  git clone https://github.com/Siwan-SR/diabetes-detection.git
-  
+  git clone https://github.com/Siwan-SR/diabetes-detection.git  
 ```
