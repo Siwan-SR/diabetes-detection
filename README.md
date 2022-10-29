@@ -8,7 +8,7 @@ The data is from: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
 ## How the model was made
 
-The model was made using Scikit-Learn, an excellent machine learning library. I used Naive Bayes as the model.
+The model was made using [Scikit-Learn (https://scikit-learn.org/)], an excellent machine learning library. I used Naive Bayes as the model.
 
 ## How the notebook is structured
 
