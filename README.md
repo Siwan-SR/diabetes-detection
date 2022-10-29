@@ -20,7 +20,7 @@ The model was made using [Scikit-Learn](https://scikit-learn.org/) an excellent 
 ### What you will find
 
 * Awesome Graphs that visualize the data
-* Use of [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
+* Use of [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/)
 * Use of Scikit-Learn's manu features
 * A ROC Curve
 * Visual Confusion Matrix
