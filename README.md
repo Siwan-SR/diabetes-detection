@@ -16,3 +16,12 @@ The model was made using [Scikit-Learn](https://scikit-learn.org/) an excellent 
 * Visualize our data
 * Fit and instantiate the mode;
 * Describe our model
+
+### What you will find
+
+* Awesome Graphs that visualize the data
+* Use of [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
+* Use of Scikit-Learn's manu features
+* A ROC Curve
+* Visual Confusion Matrix
+* A custom Classification Report
