@@ -33,3 +33,8 @@ Type this command in your terminal:
 ```bash
   git clone https://github.com/Siwan-SR/diabetes-detection.git  
 ```
+
+
+## Website Picture
+
+![image](https://user-images.githubusercontent.com/97611483/209162959-0ed6e913-ecfb-4ab4-8bb0-d2e280ca9cd2.png)
